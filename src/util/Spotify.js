@@ -1,5 +1,5 @@
 const clientId = '19b405bb06c241189eddf2c81ae83da8';
-const redirectUri = 'http://http://wonderful-toothpaste.surge.sh';
+const redirectUri = 'https://heartless-spotify.netlify.app/';
 let accessToken;
 
 const Spotify = {
