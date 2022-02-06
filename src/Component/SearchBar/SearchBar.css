@@ -28,7 +28,7 @@
     border-radius: 100px;
     background-color: black;
     text-align: center;
-    line-spacing: 2px;
+    letter-spacing: 2px;
     font-size: .833rem;
     transition: background-color .25s;
     border: 0px;
