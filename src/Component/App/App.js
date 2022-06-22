@@ -61,7 +61,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1> I<span className="highlight">VA</span>K
+        <h1> N<span className="highlight">A</span>Ga
 </h1>
         <div className="App">
           <SearchBar onSearch={this.search} />
